@@ -1,6 +1,6 @@
 ## 🧑‍💻 About Me:
 
-🧠 **I’m currently working on:**  
+🧠 **I’m currently working on:** 
 Building front-end projects and learning full-stack development.
 
 🤝 **I’m looking to collaborate on:**  
@@ -45,5 +45,3 @@ I love building UIs and turning designs into real code!
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Parcel](https://img.shields.io/badge/Parcel-FF6C37?style=for-the-badge&logo=parcel&logoColor=white)
 ![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
